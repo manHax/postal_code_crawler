@@ -1,2 +1,6 @@
 # Mengecualikan direktori node_modules
 node_modules/
+data\ -\ Copy.csv
+data.csv
+kodepos_data.csv
+package-lock.json
